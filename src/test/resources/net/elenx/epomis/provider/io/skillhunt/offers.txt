@@ -1,0 +1,2709 @@
+{
+  "data" : [ {
+    "refCode" : "raWS1Q",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "56dd9d75e4b07dbe3823c8be",
+    "slug" : "senior-mobile-developer-neoteric",
+    "company" : "Neoteric",
+    "companyDescription" : "Established in 2005 in Poland as an individual entrepreneurship and transformed into Ltd. company. Neoteric is a dynamic, innovative and highly driven enterprise, primarily active in the IT sector.",
+    "jobDetails" : null,
+    "position" : "Senior Mobile Developer",
+    "salary" : {
+      "min" : 72000.0,
+      "max" : 120000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 1100.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Gdańsk",
+      "cityNames" : [ "Gdańsk" ],
+      "state" : "Pomeranian",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "Partial",
+    "workStartDate" : null,
+    "workweek" : "40 hours",
+    "holidays" : "21 d/year",
+    "officeHours" : "9-17",
+    "primarySkills" : [ {
+      "name" : "Java",
+      "offerValue" : 5.0
+    }, {
+      "name" : "Android SDK",
+      "offerValue" : 5.0
+    }, {
+      "name" : "Object Oriented Programming",
+      "offerValue" : 5.0
+    }, {
+      "name" : "OpenApi",
+      "offerValue" : 4.0
+    }, {
+      "name" : "REST",
+      "offerValue" : 4.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "Objective-C", "PhoneGap/Cordova", "Backbone", "Knockout.js", "Git", "GitFlow", "Linux", "MDD", "BDD", "Shell operations", "Basic administration skills", "UX/UI", "UML" ]
+    } ],
+    "perks" : [ {
+      "name" : "No Bullshit Policy",
+      "description" : "Only honest and direct communication"
+    }, {
+      "name" : "Funroom",
+      "description" : "PlayStation"
+    }, {
+      "name" : "Healthcare",
+      "description" : "Allianz Medical Package"
+    }, {
+      "name" : "Sports card",
+      "description" : "Multisport"
+    }, {
+      "name" : "Flexible hours",
+      "description" : "Choose those yourself"
+    }, {
+      "name" : "Facilities",
+      "description" : "Shower room"
+    }, {
+      "name" : "Bonuses",
+      "description" : "Get shares as bonus"
+    } ],
+    "supplied" : [ {
+      "name" : "operatingSystem",
+      "values" : [ "Linux", "Windows" ]
+    }, {
+      "name" : "computer",
+      "values" : [ "Laptop", "Desktop" ]
+    }, {
+      "name" : "monitors",
+      "values" : [ "23\"" ]
+    }, {
+      "name" : "software",
+      "values" : [ "WebStorm 11" ]
+    } ],
+    "createdAt" : "2016-03-07T15:25:41.907Z",
+    "updatedAt" : "2016-07-05T15:11:49.273Z",
+    "photo" : {
+      "coverUrl" : "https://files.ntrc.eu/skillhunt/sh_ntrc_cover.jpg",
+      "logoUrl" : "https://files.ntrc.eu/skillhunt/sh_ntrc_logo.jpg",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "XrzATB",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "56dd9f84e4b0e417a75e1c04",
+    "slug" : "java-developer-neoteric",
+    "company" : "Neoteric",
+    "companyDescription" : "Established in 2005 in Poland as an individual entrepreneurship and transformed into Ltd. company. Neoteric is a dynamic, innovative and highly driven enterprise, primarily active in the IT sector.",
+    "jobDetails" : null,
+    "position" : "Java developer",
+    "salary" : {
+      "min" : 72000.0,
+      "max" : 120000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 900.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Gdańsk",
+      "cityNames" : [ "Gdańsk" ],
+      "state" : "Pomeranian",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "Partial",
+    "workStartDate" : null,
+    "workweek" : "40 hours",
+    "holidays" : "21 d/year",
+    "officeHours" : "9-17",
+    "primarySkills" : [ {
+      "name" : "Java",
+      "offerValue" : 4.0
+    }, {
+      "name" : "MongoDB",
+      "offerValue" : 4.0
+    }, {
+      "name" : "RestAPI",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Object Oriented Programming",
+      "offerValue" : 4.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have:",
+      "skills" : [ "Git", "GitFlow", "Linux/BSD system", "Jenkins", "E2E testing", "MVN", "Nexus", "UML", "BDD" ]
+    } ],
+    "perks" : [ {
+      "name" : "Funroom",
+      "description" : "PlayStation"
+    }, {
+      "name" : "Healthcare",
+      "description" : "Allianz Medical Package"
+    }, {
+      "name" : "Sports card",
+      "description" : "Multisport"
+    }, {
+      "name" : "Flexible hours",
+      "description" : "Choose those yourself"
+    }, {
+      "name" : "Facilities",
+      "description" : "Shower room"
+    }, {
+      "name" : "Bonuses",
+      "description" : "Get shares as bonus"
+    } ],
+    "supplied" : [ {
+      "name" : "operatingSystem",
+      "values" : [ "Linux", "Windows" ]
+    }, {
+      "name" : "computer",
+      "values" : [ "Laptop", "Desktop" ]
+    }, {
+      "name" : "monitors",
+      "values" : [ "23\"" ]
+    }, {
+      "name" : "software",
+      "values" : [ "WebStorm 11" ]
+    } ],
+    "createdAt" : "2016-03-07T15:34:28.386Z",
+    "updatedAt" : "2016-07-05T15:13:46.859Z",
+    "photo" : {
+      "coverUrl" : "https://files.ntrc.eu/skillhunt/sh_ntrc_cover.jpg",
+      "logoUrl" : "https://files.ntrc.eu/skillhunt/sh_ntrc_logo.jpg",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "aJRQv0",
+    "duties" : [ {
+      "name" : "Testing and keeping new components",
+      "value" : 10
+    }, {
+      "name" : "Bug analysis",
+      "value" : 10
+    }, {
+      "name" : "Application monitoring",
+      "value" : 5
+    }, {
+      "name" : "Technical documentation",
+      "value" : 5
+    }, {
+      "name" : "Creating new modules",
+      "value" : 70
+    } ],
+    "groupName" : "OFFER",
+    "id" : "571e1451e4b0a507e109baf3",
+    "slug" : "software-developer-wealtharc",
+    "company" : "WealthArc",
+    "companyDescription" : "WealthArc is swiss-polish FinTech startup, offering b2b SaaS solution for wealth managers and private banks. We are highly innovative and work using latest technologies. You will be responsible for front-to-back development of our product.",
+    "jobDetails" : null,
+    "position" : "C# Software Developer",
+    "salary" : {
+      "min" : 96000.0,
+      "max" : 168000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 800.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "B2B/Contract",
+    "location" : {
+      "city" : "Warsaw, Google Campus",
+      "cityNames" : [ "Warsaw, Google Campus", "Warsaw" ],
+      "state" : "",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40 hours",
+    "holidays" : "26 days",
+    "officeHours" : "7-19",
+    "primarySkills" : [ {
+      "name" : "C#",
+      "offerValue" : 4.0
+    }, {
+      "name" : "MVC",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Web App Development",
+      "offerValue" : 3.0
+    }, {
+      "name" : "SQL Server",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Web Services",
+      "offerValue" : 2.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "Education/experience in finance", "Cloud Development", "GIT", "JIRA", "Confluence" ]
+    } ],
+    "perks" : [ ],
+    "supplied" : [ ],
+    "createdAt" : "2016-04-25T12:57:53.167Z",
+    "updatedAt" : "2016-07-19T12:38:43.838Z",
+    "photo" : {
+      "coverUrl" : "https://files.ntrc.eu/skillhunt/sh_rad_zurich2_cover.jpg",
+      "logoUrl" : "https://files.ntrc.eu/skillhunt/sh_rad_wealtharc_logo_plain.jpg",
+      "wideCoverUrl" : "http://files.ntrc.eu/skillhunt/sh_rad_zurich2_cover.jpg"
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "PROFESSIONAL"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "9SZXOa",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "573cc438e4b0b1f5f5ce262e",
+    "slug" : "sales-representative-nadaje-broadcasting",
+    "company" : "Nadaje Broadcasting",
+    "companyDescription" : "NADAJE BROADCASTING is a team of specialists in the field of modern internet technology and audiovisual. Nadaje Broadcasting was founded in 2007 and ever since has grown to become the leader in audio and video streaming services in Poland. We provide live streaming solutions to over 200 radio and TV stations throughout Europe. We are currently looking for a Sales Representative position, who could start working with us from September.",
+    "jobDetails" : null,
+    "position" : "Sales Representative",
+    "salary" : {
+      "min" : 60000.0,
+      "max" : 80000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 800.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Wrocław",
+      "cityNames" : [ "Wrocław" ],
+      "state" : "Lower Silesia",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40h",
+    "holidays" : "",
+    "officeHours" : "",
+    "primarySkills" : [ {
+      "name" : "Hosting industry",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Parameters of Internet",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Create commercial offers",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Representing the company (english)",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Customer service skills",
+      "offerValue" : 5.0
+    }, {
+      "name" : "Knowledge of the equipment, which clients use",
+      "offerValue" : 3.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "Driving license", "Open to learning" ]
+    } ],
+    "perks" : [ {
+      "name" : "Office hours",
+      "description" : "Daily presence in the office not required"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-05-18T19:36:24.825Z",
+    "updatedAt" : "2016-07-05T12:39:41.887Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/fotor%20nadaje%204.png",
+      "logoUrl" : "http://demo.co.pl/skillhunt/NadajeBroadcastingLogo.jpg",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    }, {
+      "name" : "Polish",
+      "offerValue" : "PROFESSIONAL"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "mErKui",
+    "duties" : [ {
+      "name" : "Refactoring of legacy code and improve existing solutions",
+      "value" : 20
+    }, {
+      "name" : "Participation in the design of the API",
+      "value" : 20
+    }, {
+      "name" : "Create and deploy scripts / widgets",
+      "value" : 20
+    }, {
+      "name" : "Keeping your code quality and good practices",
+      "value" : 20
+    }, {
+      "name" : "Knowledge sharing",
+      "value" : 20
+    } ],
+    "groupName" : "OFFER",
+    "id" : "5745febde4b0be1249eda8ad",
+    "slug" : "javascript-developer-easysend",
+    "company" : "EasySend",
+    "companyDescription" : "We are a team of experts with many years of experience in international money transfers. We have 10 years of experience and we are working on providing the easiest and cheapest way to send money across Europe. We are young and motivated team that enjoys each other company which creates great working environment for development.",
+    "jobDetails" : null,
+    "position" : "JavaScript Developer",
+    "salary" : {
+      "min" : 72000.0,
+      "max" : 120000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 1100.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full Time",
+    "location" : {
+      "city" : "Gdańsk",
+      "cityNames" : [ "Gdańsk" ],
+      "state" : "",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40 hours",
+    "holidays" : "26 days",
+    "officeHours" : "7:00 - 18:30",
+    "primarySkills" : [ {
+      "name" : "CSS3",
+      "offerValue" : 5.0
+    }, {
+      "name" : "HTML5",
+      "offerValue" : 5.0
+    }, {
+      "name" : "JavaScript",
+      "offerValue" : 5.0
+    }, {
+      "name" : "jQuery",
+      "offerValue" : 5.0
+    }, {
+      "name" : "AngularJS",
+      "offerValue" : 3.0
+    }, {
+      "name" : "GIT",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Jasmin/Carma/Cucumber",
+      "offerValue" : 3.0
+    }, {
+      "name" : "SASS",
+      "offerValue" : 3.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "REST API", "TypeScript", "Docker", "Ember / BackBone / Vue / React", "Gulp / Grunt" ]
+    } ],
+    "perks" : [ {
+      "name" : "Training",
+      "description" : "Training budget"
+    }, {
+      "name" : "Entertainment",
+      "description" : "Fun Room"
+    }, {
+      "name" : "Food",
+      "description" : "Free snacks and beverages"
+    }, {
+      "name" : "Leisure",
+      "description" : "Sports card subscription"
+    }, {
+      "name" : "Medical",
+      "description" : "Private health care"
+    } ],
+    "supplied" : [ {
+      "name" : "Hardware",
+      "values" : [ "Computer", "Monitors" ]
+    } ],
+    "createdAt" : "2016-05-25T19:36:29.576Z",
+    "updatedAt" : "2016-07-05T15:17:11.475Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/EasySend/Biuro.png",
+      "logoUrl" : "http://demo.co.pl/skillhunt/EasySend/es2.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "Polish",
+      "offerValue" : "NATIVE"
+    }, {
+      "name" : "English",
+      "offerValue" : "INTERMEDIATE"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "FDr5Xu",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "57569a82e4b065602cd8b473",
+    "slug" : "mid-java-developer-netsprint",
+    "company" : "Netsprint",
+    "companyDescription" : "Netsprint SA, the leader in marketing technology, co-creates the Polish advertising ecosystem in the area of contextual advertising, content marketing, audience targeting and Programmatic, personalization and eCommerce, is looking for candidates for the position: Mid Java Developer",
+    "jobDetails" : null,
+    "position" : "Java Developer",
+    "salary" : {
+      "min" : 58000.0,
+      "max" : 78000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 500.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full Time",
+    "location" : {
+      "city" : "Warszawa",
+      "cityNames" : [ "Warszawa", "Warsaw" ],
+      "state" : "",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40 hours",
+    "holidays" : "26 days",
+    "officeHours" : "Flexible working hours",
+    "primarySkills" : [ {
+      "name" : "Java",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Linux",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Any web framework",
+      "offerValue" : 1.0
+    } ],
+    "secondarySkills" : [ ],
+    "perks" : [ {
+      "name" : "Medical",
+      "description" : "Private healthcare"
+    }, {
+      "name" : "Leisure",
+      "description" : "Sports card subscription"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-06-07T09:57:22.799Z",
+    "updatedAt" : "2016-08-30T12:01:33.361Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Netsprint/Warszawa.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Netsprint/Screen%20Shot%202016-06-07%20at%2011.59.17.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "BASIC"
+    }, {
+      "name" : "Polish",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "NQqHsK",
+    "duties" : [ {
+      "name" : "Leading the development",
+      "value" : 30
+    }, {
+      "name" : "Launching core product features",
+      "value" : 30
+    }, {
+      "name" : "Helping to define product features",
+      "value" : 20
+    }, {
+      "name" : "Driving the system architecture",
+      "value" : 10
+    }, {
+      "name" : "Best practices sharing",
+      "value" : 10
+    } ],
+    "groupName" : "OFFER",
+    "id" : "577f858fe4b0cfb14abce773",
+    "slug" : "java-developer-amazon",
+    "company" : "Amazon Development Center Poland",
+    "companyDescription" : "Our Amazon Development Center in Gdansk is home to a variety of teams that deliver innovative solutions powering Amazon products and services around the world.\n\nTeams of developers and researchers work on revolutionizing the way users interact with Amazon products and services. We focus on distributed systems and technologies such as Text-to-Speech and Natural Language Understanding to make a real difference to customers by inventing, enhancing, and building world-class software.\n\nLocated in one of the most progressive regions of Poland, the Development Center offers exceptional opportunities to grow your technical and non-technical skills by working on exciting and challenging projects.",
+    "jobDetails" : null,
+    "position" : "Java Developer",
+    "salary" : {
+      "min" : 0.0,
+      "max" : 0.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 2500.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Gdańsk",
+      "cityNames" : [ "Gdańsk" ],
+      "state" : "Pomeranian",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "Yes",
+    "workStartDate" : null,
+    "workweek" : "40 hours",
+    "holidays" : "26 days",
+    "officeHours" : "Flexible",
+    "primarySkills" : [ {
+      "name" : "Java",
+      "offerValue" : 5.0
+    }, {
+      "name" : "Building scalable infrastructure software or distributed systems for commercial online services",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Development experience defining",
+      "offerValue" : 3.0
+    }, {
+      "name" : "REST based interfaces",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Technical communication",
+      "offerValue" : 3.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "BS/MS in Computer Science or equiv.", "Speech and language understanding systems", "Cloud software services development", "Understanding of design for scalability", "Exp. in building developer facing products and services" ]
+    }, {
+      "name" : "Required experience",
+      "skills" : [ "4+ years of industry experience" ]
+    } ],
+    "perks" : [ {
+      "name" : "Leisure",
+      "description" : "Sports card subscription"
+    }, {
+      "name" : "Medical",
+      "description" : "Private health care"
+    }, {
+      "name" : "Medical",
+      "description" : "Insurance"
+    }, {
+      "name" : "Business",
+      "description" : "Employee stocks"
+    }, {
+      "name" : "Training",
+      "description" : "Language Lessons"
+    }, {
+      "name" : "Relocation",
+      "description" : "Relocation package"
+    }, {
+      "name" : "Leisure",
+      "description" : "Fresh fruits in the office"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-07-08T10:50:55.267Z",
+    "updatedAt" : "2016-09-05T13:55:05.133Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Amazon/amazon.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Amazon/Amazon%20updated.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "Gcsn4t",
+    "duties" : [ {
+      "name" : "Leading the development",
+      "value" : 30
+    }, {
+      "name" : "Launching core product features",
+      "value" : 30
+    }, {
+      "name" : "Helping to define product features",
+      "value" : 20
+    }, {
+      "name" : "Driving the system architecture",
+      "value" : 10
+    }, {
+      "name" : "Best practices sharing",
+      "value" : 10
+    } ],
+    "groupName" : "OFFER",
+    "id" : "577f918be4b0cfb14abce774",
+    "slug" : "software-engineer-amazon",
+    "company" : "Amazon Development Center Poland",
+    "companyDescription" : "Our Amazon Development Center in Gdansk is home to a variety of teams that deliver innovative solutions powering Amazon products and services around the world.\n\nTeams of developers and researchers work on revolutionizing the way users interact with Amazon products and services. We focus on distributed systems and technologies such as Text-to-Speech and Natural Language Understanding to make a real difference to customers by inventing, enhancing, and building world-class software.\n\nLocated in one of the most progressive regions of Poland, the Development Center offers exceptional opportunities to grow your technical and non-technical skills by working on exciting and challenging projects.",
+    "jobDetails" : null,
+    "position" : "Software Engineer",
+    "salary" : {
+      "min" : 0.0,
+      "max" : 0.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 2500.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Gdańsk",
+      "cityNames" : [ "Gdańsk" ],
+      "state" : "Pomeranian",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "Yes",
+    "workStartDate" : null,
+    "workweek" : "40 hours",
+    "holidays" : "26 days",
+    "officeHours" : "Flexible",
+    "primarySkills" : [ {
+      "name" : "C++",
+      "offerValue" : 5.0
+    }, {
+      "name" : "Building scalable infrastructure software or distributed systems for commercial online services",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Development experience defining",
+      "offerValue" : 3.0
+    }, {
+      "name" : "REST based interfaces",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Technical communication",
+      "offerValue" : 3.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "BS/MS in Computer Science or equiv.", "Speech and language understanding systems", "Cloud software services development", "Understanding of design for scalability", "Exp. in building developer facing products and services" ]
+    }, {
+      "name" : "Required experience",
+      "skills" : [ "4+ years of industry experience" ]
+    } ],
+    "perks" : [ {
+      "name" : "Leisure",
+      "description" : "Sports card subscription"
+    }, {
+      "name" : "Medical",
+      "description" : "Private health care"
+    }, {
+      "name" : "Medical",
+      "description" : "Insurance"
+    }, {
+      "name" : "Business",
+      "description" : "Employee stocks"
+    }, {
+      "name" : "Training",
+      "description" : "Language lessons"
+    }, {
+      "name" : "Relocation",
+      "description" : "Relocation package"
+    }, {
+      "name" : "Leisure",
+      "description" : "Fresh fruits in the office"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-07-08T11:42:03.101Z",
+    "updatedAt" : "2016-09-05T13:55:47.922Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Amazon/amazon.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Amazon/Amazon%20updated.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "NgJ9BV",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "57862ac2e4b0ee55e7b8cb01",
+    "slug" : "frontend-developer-time-solutions",
+    "company" : "Time Solutions Sp. z o.o.",
+    "companyDescription" : "Time Solutions Sp. z o.o. is a startup creating IT tools to time tracking TimeCamp product. Our solutions have already benefited more than 1,000 companies from around the world (70% from the US). Due to the rapid growth, we are looking for the candidates for a job. Recently we have on board around 20 people in teams of 2-3 people.",
+    "jobDetails" : null,
+    "position" : "Frontend Developer",
+    "salary" : {
+      "min" : 57600.0,
+      "max" : 105600.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 900.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Wrocław",
+      "cityNames" : [ "Wrocław", "Warsaw" ],
+      "state" : "",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "20/26",
+    "officeHours" : "Flexible",
+    "primarySkills" : [ {
+      "name" : "Software Improvement",
+      "offerValue" : 3.0
+    }, {
+      "name" : "JavaScript",
+      "offerValue" : 5.0
+    }, {
+      "name" : "React",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Angular.js",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Support in the development",
+      "offerValue" : 3.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Required experience",
+      "skills" : [ "1+ year of industry" ]
+    }, {
+      "name" : "Nice to have",
+      "skills" : [ "Empathy for developers and customers", "Cooperation with Customer Support" ]
+    } ],
+    "perks" : [ {
+      "name" : "Possibility to take part",
+      "description" : "Training"
+    }, {
+      "name" : "Leisure",
+      "description" : "Relaxed Atmosphere"
+    } ],
+    "supplied" : [ {
+      "name" : "Hardware",
+      "values" : [ "Apple computers" ]
+    } ],
+    "createdAt" : "2016-07-13T11:49:22.346Z",
+    "updatedAt" : "2016-09-26T07:55:17.251Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Timecamp/4.png",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Timecamp/Screen%20Shot%202016-07-12%20at%2014.25.11.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "5lIMxc",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "579884b5e4b0ee55e7b8cb89",
+    "slug" : "it-business-analyst-mobile-ms",
+    "company" : "MobileMS",
+    "companyDescription" : "We are a company operating in the market since 2008. We support our customers in meeting their complex needs of creation by providing controlling software to promote the project.\nWe operate nimbly in a young team of specialists, people involved and passionate.\nWe all know each other and each one has an impact on the company. We are open to new ideas. Our people are trying to work better and more efficiently all the time.\nWe work mainly for customers in the area of culture and tourism. Our customers are Museums, Offices, Theatres. We are also working to create software for B2B brands such as Rossmann or Manufaktura.",
+    "jobDetails" : null,
+    "position" : "IT Business Analyst",
+    "salary" : {
+      "min" : 48000.0,
+      "max" : 96000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 850.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Contract",
+    "location" : {
+      "city" : "Łódź",
+      "cityNames" : [ "Łódź" ],
+      "state" : "",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "26",
+    "officeHours" : "7-18/9-17",
+    "primarySkills" : [ {
+      "name" : "Project Management",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Communication skills",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Analytical skills",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Organizational skills",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Creativity",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Working in teams",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Dynamism in action",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Resistance to stress",
+      "offerValue" : 4.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Education",
+      "skills" : [ "Higher technical", "Prefered Computer science" ]
+    }, {
+      "name" : "Nice to have",
+      "skills" : [ "Change management", "Certificates of project methodologies", "Soft skills", "Determination of priorities", "Time management skills", "Motivate and develop employees" ]
+    }, {
+      "name" : "Required experience",
+      "skills" : [ "2+ years in IT Project Management", "3+ years in creating Technical Documentation" ]
+    } ],
+    "perks" : [ {
+      "name" : "Remote work",
+      "description" : "2 days/ month"
+    }, {
+      "name" : "Bonuses",
+      "description" : "Bonus system"
+    }, {
+      "name" : "Leisure",
+      "description" : "Relaxed Atmosphere"
+    }, {
+      "name" : "Flexible",
+      "description" : "OfficeHours"
+    }, {
+      "name" : "Free",
+      "description" : "Tennis table"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-07-27T09:53:57.765Z",
+    "updatedAt" : "2016-08-02T09:53:57.777Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/MobileMS/12.png",
+      "logoUrl" : "http://demo.co.pl/skillhunt/MobileMS/logo.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "INTERMEDIATE"
+    }, {
+      "name" : "Polish",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "MwZOrY",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "579887ace4b0ee55e7b8cb8c",
+    "slug" : "javascript-developer-mobile-ms",
+    "company" : "MobileMS",
+    "companyDescription" : "We are a company operating in the market since 2008. We support our customers in meeting their complex needs of creation by providing controlling software to promote the project.\nWe operate nimbly in a young team of specialists, people involved and passionate.\nWe all know each other and each one has an impact on the company. We are open to new ideas. Our people are trying to work better and more efficiently all the time.\nWe work mainly for customers in the area of culture and tourism. Our customers are Museums, Offices, Theatres. We are also working to create software for B2B brands such as Rossmann or Manufaktura.",
+    "jobDetails" : null,
+    "position" : "Javascript Developer",
+    "salary" : {
+      "min" : 60000.0,
+      "max" : 180000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 1350.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Contract",
+    "location" : {
+      "city" : "Łódź",
+      "cityNames" : [ "Łódź" ],
+      "state" : "",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "26",
+    "officeHours" : "7-18/9-17",
+    "primarySkills" : [ {
+      "name" : "Javascript",
+      "offerValue" : 4.0
+    }, {
+      "name" : "AngularJS",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Karma",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Jasmine (+Protractor, Selenium)",
+      "offerValue" : 3.0
+    }, {
+      "name" : "NodeJS",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Bower",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Grunt/Gulp",
+      "offerValue" : 2.0
+    }, {
+      "name" : "RequireJS",
+      "offerValue" : 2.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Education",
+      "skills" : [ "Higher technical", "Prefered Computer science" ]
+    }, {
+      "name" : "Nice to have",
+      "skills" : [ "Cordova", "Phonegap", "Ionic", "HTML5", "SASS", "CSS3" ]
+    }, {
+      "name" : "Required experience",
+      "skills" : [ "1+ years of industry" ]
+    } ],
+    "perks" : [ {
+      "name" : "Bonuses",
+      "description" : "Bonus system"
+    }, {
+      "name" : "Leisure",
+      "description" : "Relaxed Atmosphere"
+    }, {
+      "name" : "Flexible",
+      "description" : "OfficeHours"
+    }, {
+      "name" : "Free",
+      "description" : "Tennis table"
+    }, {
+      "name" : "Remote work",
+      "description" : "2 days/ month"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-07-27T10:06:36.133Z",
+    "updatedAt" : "2016-08-02T09:54:17.118Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/MobileMS/12.png",
+      "logoUrl" : "http://demo.co.pl/skillhunt/MobileMS/logo.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "INTERMEDIATE"
+    }, {
+      "name" : "Polish",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "XLrsUJ",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "57988a46e4b0ee55e7b8cb8d",
+    "slug" : "php-developer-mobile-ms",
+    "company" : "MobileMS",
+    "companyDescription" : "We are a company operating in the market since 2008. We support our customers in meeting their complex needs of creation by providing controlling software to promote the project.\nWe operate nimbly in a young team of specialists, people involved and passionate.\nWe all know each other and each one has an impact on the company. We are open to new ideas. Our people are trying to work better and more efficiently all the time.\nWe work mainly for customers in the area of culture and tourism. Our customers are Museums, Offices, Theatres. We are also working to create software for B2B brands such as Rossmann or Manufaktura.",
+    "jobDetails" : null,
+    "position" : "PHP Developer",
+    "salary" : {
+      "min" : 48000.0,
+      "max" : 96000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 850.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Contract",
+    "location" : {
+      "city" : "Łódź",
+      "cityNames" : [ "Łódź" ],
+      "state" : "",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "26",
+    "officeHours" : "7-18/9-17",
+    "primarySkills" : [ {
+      "name" : "PHP",
+      "offerValue" : 4.0
+    }, {
+      "name" : "MVC",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Object-oriented programming",
+      "offerValue" : 4.0
+    }, {
+      "name" : "HTML/XHTML",
+      "offerValue" : 4.0
+    }, {
+      "name" : "JavaScript",
+      "offerValue" : 4.0
+    }, {
+      "name" : "JQuery",
+      "offerValue" : 4.0
+    }, {
+      "name" : "CSS",
+      "offerValue" : 4.0
+    }, {
+      "name" : "AJAX",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Doctrine",
+      "offerValue" : 4.0
+    }, {
+      "name" : "SQL",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Designing relational databases",
+      "offerValue" : 3.0
+    }, {
+      "name" : "RequireJS",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Grunt/Gulp",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Bower",
+      "offerValue" : 2.0
+    }, {
+      "name" : "NodeJS",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Jasmine (+Protractor, Selenium)",
+      "offerValue" : 3.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "EJB", "WebService", "JSF", "UML", "Tomcat", "JBoss", "PL/SQL" ]
+    }, {
+      "name" : "Required experience",
+      "skills" : [ "Programming in PHP", "Practical knowledge of PHP" ]
+    } ],
+    "perks" : [ {
+      "name" : "Remote work",
+      "description" : "2 days/ month"
+    }, {
+      "name" : "Bonuses",
+      "description" : "Bonus system"
+    }, {
+      "name" : "Leisure",
+      "description" : "Relaxed Atmosphere"
+    }, {
+      "name" : "Flexible",
+      "description" : "OfficeHours"
+    }, {
+      "name" : "Free",
+      "description" : "Tennis table"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-07-27T10:17:42.602Z",
+    "updatedAt" : "2016-08-02T09:54:32.304Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/MobileMS/12.png",
+      "logoUrl" : "http://demo.co.pl/skillhunt/MobileMS/logo.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "INTERMEDIATE"
+    }, {
+      "name" : "Polish",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "cdbbq4",
+    "duties" : [ {
+      "name" : "Working on the business trip",
+      "value" : 50
+    }, {
+      "name" : "Working in the office",
+      "value" : 50
+    } ],
+    "groupName" : "OFFER",
+    "id" : "5798c26be4b0aed4ea83219d",
+    "slug" : "devops-with-java-neoteric",
+    "company" : "Neoteric",
+    "companyDescription" : "Established in 2005 in Poland as an individual entrepreneurship and transformed into Ltd. company. Neoteric is a dynamic, innovative and highly driven enterprise, primarily active in the IT sector. Now we are looking for DevOps with Java, who will be working half time in the office and the rest of it in the business trip.",
+    "jobDetails" : null,
+    "position" : "DevOps with Java",
+    "salary" : {
+      "min" : 156000.0,
+      "max" : 273000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 1600.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Gdańsk",
+      "cityNames" : [ "Gdańsk" ],
+      "state" : "Pomeranian",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "Partial",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "21 d/year",
+    "officeHours" : "9-17",
+    "primarySkills" : [ {
+      "name" : "Java",
+      "offerValue" : 4.0
+    }, {
+      "name" : "JVM",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Unix",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Linux",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Web applications architecture",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Deployment and maintenance of production environments",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Exceptional scripting know-how",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Nginx",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Tomcat",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Docker",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Configuration management tools",
+      "offerValue" : 3.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "GitHub", "Troubleshooting", "Excellent communication skills", "Team player", "Virtualization", "Para-virtualization", "Ansible", "Chef", "Puppet", "Bash", "Python" ]
+    } ],
+    "perks" : [ {
+      "name" : "Funroom",
+      "description" : "PlayStation"
+    }, {
+      "name" : "Healthcare",
+      "description" : "Allianz Medical Package"
+    }, {
+      "name" : "Sports card",
+      "description" : "Multisport"
+    }, {
+      "name" : "Flexible hours",
+      "description" : "Choose those yourself"
+    }, {
+      "name" : "Facilities",
+      "description" : "Shower room"
+    }, {
+      "name" : "Bonuses",
+      "description" : "Get shares as bonus"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-07-27T14:17:15.207Z",
+    "updatedAt" : "2016-07-27T14:17:15.207Z",
+    "photo" : {
+      "coverUrl" : "https://files.ntrc.eu/skillhunt/sh_ntrc_cover.jpg",
+      "logoUrl" : "https://files.ntrc.eu/skillhunt/sh_ntrc_logo.jpg",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "n7OpAm",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "57a06504bfe523001fcc5e46",
+    "slug" : "m-s-developer-flex-group",
+    "company" : "Flex Group",
+    "companyDescription" : "We are a Poland based company, performing high-end development in Ukraine and Poland. Since 2014 our biggest goal have been to become the most reliable tech partner out there, no matter what country our clients call home. We have come to realize that development excellence is not the one thing that makes a successful partnership, but the ability to adapt and joint forces. The key to success is not working for our customers, but working with our customers.",
+    "jobDetails" : "We are looking to hire a talented PHP Developer who will take part a core role in our team.\nYou will work in a multi-cultural environment with talented colleagues from Poland, Ukraine, USA and several European countries.\nRequirements: \n• min. 2 years of experience in web development\n• Fulltime, 40 hours per week.\n• Good knowledge of English (ability to speak, read and write)\n• Good knowledge and deep understanding PHP, HTML, CSS\n• Basic level experience with Ajax, jQuery, Javascript, MySQL \n• Experience with OO programming and MVC pattern \nWe offer:\n• Competitive stable salary\n• Ability to work in a creative and professional team\n• User-friendly corporate culture\n• Friendly staff and sane PM guaranteed",
+    "position" : "Middle/Senior PHP Developer",
+    "salary" : {
+      "min" : 48000.0,
+      "max" : 96000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 600.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Cracow",
+      "cityNames" : [ "Krąków" ],
+      "state" : "Lesser Voivodeship",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "20/26",
+    "officeHours" : "07.00 - 23.00",
+    "primarySkills" : [ {
+      "name" : "PHP",
+      "offerValue" : 4.0
+    }, {
+      "name" : "HTML",
+      "offerValue" : 4.0
+    }, {
+      "name" : "CSS",
+      "offerValue" : 3.0
+    }, {
+      "name" : "MySQL",
+      "offerValue" : 3.0
+    }, {
+      "name" : "JavaScript",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Jquery",
+      "offerValue" : 2.0
+    }, {
+      "name" : "AJAX",
+      "offerValue" : 2.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "Laravel", "YII", "CodeIgniter", "WP" ]
+    } ],
+    "perks" : [ {
+      "name" : "Additional",
+      "description" : "Flexible Work Time"
+    }, {
+      "name" : "Additional",
+      "description" : "Certificate Compensations"
+    }, {
+      "name" : "Additional",
+      "description" : "Work from home"
+    }, {
+      "name" : "All official social guarantees",
+      "description" : "Vacation/ sickness/insurance - ZUS"
+    }, {
+      "name" : "Leisure",
+      "description" : "Corporate, teambuilding events"
+    }, {
+      "name" : "English courses",
+      "description" : "Compensation package"
+    }, {
+      "name" : "Multisport cards",
+      "description" : "50% compensation"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-08-02T09:16:52.063Z",
+    "updatedAt" : "2016-10-19T12:41:25.849Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/FlexGroup/3.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/FlexGroup/lfg.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "6AgtJP",
+    "duties" : [ {
+      "name" : "Requirements analysis",
+      "value" : 10
+    }, {
+      "name" : "Implementation and support",
+      "value" : 10
+    }, {
+      "name" : "Manual Testing",
+      "value" : 10
+    }, {
+      "name" : "Automatic Testing",
+      "value" : 10
+    }, {
+      "name" : "Solutions implementation",
+      "value" : 30
+    }, {
+      "name" : "Solutions design",
+      "value" : 30
+    } ],
+    "groupName" : "OFFER",
+    "id" : "57a1ae57bfe523001fcc6ec2",
+    "slug" : "scala-dev-virtuslab",
+    "company" : "VirtusLab Sp. zo.o.",
+    "companyDescription" : "VirtusLab is a Software Development & Consulting Company specializing in Scala & Lightbend Reactive Platform. A mix of professional and research experience allows the team to take on groundbreaking projects. VirtusLab is a staunch supporter of Scala in Poland by organizing ScalaSphere DevTools Summit, sponsoring the Krakow Scala User Group and ScalaCamps.",
+    "jobDetails" : "",
+    "position" : "Scala Developer",
+    "salary" : {
+      "min" : 60000.0,
+      "max" : 120000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 1000.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "B2B/Contract",
+    "location" : {
+      "city" : "Cracow",
+      "cityNames" : [ "Cracow" ],
+      "state" : "Lesser Voivodeship",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "21/26",
+    "officeHours" : "7-24",
+    "primarySkills" : [ {
+      "name" : "Java",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Jenkins",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Work in a team",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Scala",
+      "offerValue" : 4.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "Gradle", "Knowledge of JVM and build tools", "Groovy", "Contributions to open-source" ]
+    }, {
+      "name" : "Required experience",
+      "skills" : [ "5+ years of commercial experience" ]
+    } ],
+    "perks" : [ {
+      "name" : "Medical",
+      "description" : "Private Healthcare"
+    }, {
+      "name" : "Leisure",
+      "description" : "Multisport"
+    }, {
+      "name" : "Depending on project",
+      "description" : "Remote Work"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-08-03T08:41:59.288Z",
+    "updatedAt" : "2016-09-30T13:19:19.207Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Virtuslav/tlo.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Virtuslav/ol.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "PysP1Z",
+    "duties" : [ {
+      "name" : "Creating working product",
+      "value" : 30
+    }, {
+      "name" : "Code review",
+      "value" : 10
+    }, {
+      "name" : "Documentation maintenance",
+      "value" : 10
+    }, {
+      "name" : "Code writing & maintenance",
+      "value" : 40
+    }, {
+      "name" : "Knowledge sharing",
+      "value" : 10
+    } ],
+    "groupName" : "OFFER",
+    "id" : "57ad9941bfe523001f2a590d",
+    "slug" : "senior-java-developer-german-webellian",
+    "company" : "Webellian",
+    "companyDescription" : "Webellian consulting practices help our clients and partners streamline operations, reduce costs, and improve the user experience, while simultaneously accelerating decision-making with accurate data. Webellian works with small to enterprise-level clients across multiple industries. Our broad expertise, experienced engineers and effective project management have made us an industry leader in Europe and North America. We work diligently with our clients and partners to understand their goals and develop a clear vision of how to seamlessly integrate technology in a way that helps them achieve their objectives.",
+    "jobDetails" : "We are currently searching for two Senior Java Developer to join our team to be responsible for development of new features and new systems for one of the largest leaders of insurance industry. You will work within an international team; professional German is mandatory as that is official project language at client site.  English is also nice to have. You must have a strong development background and be willing to learn new technologies.",
+    "position" : "Java Developer with German",
+    "salary" : {
+      "min" : 132000.0,
+      "max" : 180000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 800.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "B2B/Contract",
+    "location" : {
+      "city" : "Warszawa",
+      "cityNames" : [ "Warsaw", "Warszawa" ],
+      "state" : "Masovian Voivodeship",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "20/26",
+    "officeHours" : "7-19",
+    "primarySkills" : [ {
+      "name" : "JSF 1.x",
+      "offerValue" : 3.0
+    }, {
+      "name" : "SOAP/REST services",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Junit 4",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Mockito",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Selenium",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Quartz",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Eclipse",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Apache Tomahawk",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Apache POI",
+      "offerValue" : 3.0
+    }, {
+      "name" : "JasperReports",
+      "offerValue" : 3.0
+    }, {
+      "name" : "SQL – architecture & development",
+      "offerValue" : 3.0
+    }, {
+      "name" : "SVN",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Git",
+      "offerValue" : 3.0
+    }, {
+      "name" : "HTML",
+      "offerValue" : 1.0
+    }, {
+      "name" : "CSS",
+      "offerValue" : 1.0
+    }, {
+      "name" : "JavaScript",
+      "offerValue" : 1.0
+    }, {
+      "name" : "jQuery",
+      "offerValue" : 1.0
+    }, {
+      "name" : "Bootstrap",
+      "offerValue" : 1.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Required experience",
+      "skills" : [ "4+ years in Java 7+", "4+ years in Spring 3+", "4+ years in Hibernate 4+" ]
+    }, {
+      "name" : "Nice to have",
+      "skills" : [ "Ability to organize and manage multiple priorities", "Linux", "Highly developed analytical skills", "Good self-organization", "Atlassian JIRA/Confluence" ]
+    } ],
+    "perks" : [ {
+      "name" : "Complex web applications",
+      "description" : "Challenging work"
+    }, {
+      "name" : "International environment",
+      "description" : "Cooperation not only with developers"
+    }, {
+      "name" : "Medical",
+      "description" : "Health Insurance"
+    }, {
+      "name" : "Additional",
+      "description" : "Life Insurance"
+    }, {
+      "name" : "Additional",
+      "description" : "Fitness Membership"
+    }, {
+      "name" : "Leisure",
+      "description" : "Team Lunches"
+    }, {
+      "name" : "Additional",
+      "description" : "Possibility of getting needed certifications"
+    }, {
+      "name" : "Financial",
+      "description" : "Very competitive salary"
+    }, {
+      "name" : "Atmosphere",
+      "description" : "Friendly and open workplace"
+    }, {
+      "name" : "Additional",
+      "description" : "Possibility of learning and exploring new technologies"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-08-12T09:39:13.357Z",
+    "updatedAt" : "2016-08-12T09:39:13.357Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Webellian/war.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Webellian/w.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    }, {
+      "name" : "German",
+      "offerValue" : "PROFESSIONAL"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "IiSbCN",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "57c5a9c7bfe523001f2a5e70",
+    "slug" : "java-developer-blue-media",
+    "company" : "Blue Media",
+    "companyDescription" : "We supply electronic payment and sales support solutions - from utility payment automation to complex, bespoke electronic banking systems. Blue Media was founded in 1999 by two Tri-City students, who have been managing the company to date. They started out with one computer and created their first services out of their homes. Today it is the largest IT company in the Pomeranian and a leading Polish tech firm. We are from Sopot. Proximity of the sea and nature influences the way we work. We feel responsible for our environment. Both the natural environment and business environment. We respect nature and we strive to keep our service from influencing it.",
+    "jobDetails" : "You will support us in creating online payment systems for clients in the telecommunications and banking industries (SPBC, Kokos.pl, bm.pl). We work in small SCRUM teams using JIRA+Agile, GIT, Crucible.",
+    "position" : "Java Developer",
+    "salary" : {
+      "min" : 102000.0,
+      "max" : 120000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 1000.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Sopot",
+      "cityNames" : [ "Sopot" ],
+      "state" : "Pomeranian",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "Yes",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "According to experience",
+    "officeHours" : "7:00 a.m. - 6:00 p.m.",
+    "primarySkills" : [ {
+      "name" : "Java EE",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Enterprise JavaBeans",
+      "offerValue" : 3.0
+    }, {
+      "name" : "JPA",
+      "offerValue" : 3.0
+    }, {
+      "name" : "SQL",
+      "offerValue" : 3.0
+    }, {
+      "name" : "REST",
+      "offerValue" : 3.0
+    }, {
+      "name" : "SOAP",
+      "offerValue" : 3.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "JMS", "Jboss/Wildfly" ]
+    }, {
+      "name" : "Required experience",
+      "skills" : [ "2+ years of industry experience" ]
+    } ],
+    "perks" : [ {
+      "name" : "10 000 PLN",
+      "description" : "Relocation package"
+    }, {
+      "name" : "Expert seminars",
+      "description" : "Personal Development"
+    }, {
+      "name" : "Get a bonus 1PLN/kilometer",
+      "description" : "Ride a bike to work?"
+    }, {
+      "name" : "Subsidized",
+      "description" : "Private medical insurance"
+    }, {
+      "name" : "Pool, saunas, gym",
+      "description" : "Free access to a Sopot sports club"
+    }, {
+      "name" : "Subsidized Multisport",
+      "description" : "Gym membership"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-08-30T15:44:07.230Z",
+    "updatedAt" : "2016-09-12T09:19:23.115Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/BlueMedia/sopot.png",
+      "logoUrl" : "http://demo.co.pl/skillhunt/BlueMedia/BlueMediaLogo.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    }, {
+      "name" : "Polish",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "4sKNSZ",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "57c982efbfe523001f2a5f53",
+    "slug" : "front-killa-dev-skilla-sadek-rocks",
+    "company" : "Brand24",
+    "companyDescription" : "Brand24 is a powerful tool for real-time social media monitoring and analytics.\nDesigned to keep track of online conversations about your brand and products. Brand24 collects real-time social data from millions of sources.",
+    "jobDetails" : "You will rebuild and further develop the entire user panel within the Brand24.com application.",
+    "position" : "Frontend / Fullstack PHP Dev",
+    "salary" : {
+      "min" : 60000.0,
+      "max" : 120000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 1000.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "B2B/Contract",
+    "location" : {
+      "city" : "Wrocław",
+      "cityNames" : [ "Wrocław" ],
+      "state" : "Lower Silesia",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40h",
+    "holidays" : "Standard",
+    "officeHours" : "Flexible",
+    "primarySkills" : [ {
+      "name" : "JavaScript",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Angular/React",
+      "offerValue" : 4.0
+    }, {
+      "name" : "PHP",
+      "offerValue" : 3.0
+    }, {
+      "name" : "CSS",
+      "offerValue" : 4.0
+    }, {
+      "name" : "SQL",
+      "offerValue" : 2.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "You should also know",
+      "skills" : [ "GIT Version Control" ]
+    } ],
+    "perks" : [ {
+      "name" : "Included",
+      "description" : "Work with rockstars"
+    }, {
+      "name" : "Negotiable",
+      "description" : "All additional benefits"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-09-02T13:47:27.806Z",
+    "updatedAt" : "2016-09-12T09:20:23.421Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Brand24/Head.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Brand24/Logo.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "INTERMEDIATE"
+    }, {
+      "name" : "Polish",
+      "offerValue" : "PROFESSIONAL"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "h69Vol",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "57cd80c8bfe523001fab1e24",
+    "slug" : "mid-senior-angular-developer",
+    "company" : "Unified Factory SA",
+    "companyDescription" : "Unified Factory S.A. is a Customer Service Automation and sales software provider operating in 7 countries. It utilizes advanced associative memory algorithms to facilitate client service.",
+    "jobDetails" : "You will participate in creating a SaaS based Customer Service Automation application originating from a fully developed software previously implemented for clients in 7 markets. The application is developed using Angular 1.5.* and utilizes numerous interesting protocols and tools to deliver complex business solutions.",
+    "position" : "Mid/Senior Angular Developer",
+    "salary" : {
+      "min" : 108000.0,
+      "max" : 180000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 1250.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "",
+    "location" : {
+      "city" : "Warsaw",
+      "cityNames" : [ "Warsaw" ],
+      "state" : "Mazowiecki",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40h",
+    "holidays" : "26 days",
+    "officeHours" : "8:00 a.m. - 6:00 p.m.",
+    "primarySkills" : [ {
+      "name" : "JavaScript",
+      "offerValue" : 5.0
+    }, {
+      "name" : "AngularJS",
+      "offerValue" : 5.0
+    }, {
+      "name" : "TypeScript",
+      "offerValue" : 4.0
+    }, {
+      "name" : "NodeJS",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Gulp",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Bower",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Linux",
+      "offerValue" : 3.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "SQL/PostgreSQL", ".NET", "webRTC/ObejctRTC", "Websocket", "REST" ]
+    } ],
+    "perks" : [ {
+      "name" : "Negotiable",
+      "description" : "Benefits"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-09-05T14:27:20.606Z",
+    "updatedAt" : "2016-09-20T08:02:45.214Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Netsprint/Warszawa.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/UnifiedFactorySA/UF_logo.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "PROFESSIONAL"
+    }, {
+      "name" : "Polish",
+      "offerValue" : "PROFESSIONAL"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "vx86vH",
+    "duties" : [ {
+      "name" : "Bug fixing",
+      "value" : 10
+    }, {
+      "name" : "Client support",
+      "value" : 5
+    }, {
+      "name" : "Document writing",
+      "value" : 5
+    }, {
+      "name" : "Meetings",
+      "value" : 5
+    }, {
+      "name" : "New features creating",
+      "value" : 75
+    } ],
+    "groupName" : "OFFER",
+    "id" : "57d15387bfe523001fbaf9db",
+    "slug" : "java-dev-virtuslab",
+    "company" : "VirtusLab Sp. zo.o.",
+    "companyDescription" : "VirtusLab is a Software Development & Consulting Company specializing in Scala & Lightbend Reactive Platform. A mix of professional and research experience allows the team to take on groundbreaking projects. VirtusLab is a staunch supporter of Scala in Poland by organizing ScalaSphere DevTools Summit, sponsoring the Krakow Scala User Group and ScalaCamps.",
+    "jobDetails" : "",
+    "position" : "Java Developer",
+    "salary" : {
+      "min" : 84000.0,
+      "max" : 144000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 1000.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Cracow",
+      "cityNames" : [ "Cracow" ],
+      "state" : "Lesser Voivodeship",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "21/26",
+    "officeHours" : "Flexible",
+    "primarySkills" : [ {
+      "name" : "Java",
+      "offerValue" : 3.0
+    }, {
+      "name" : "DevOps skills",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Async programming",
+      "offerValue" : 2.0
+    }, {
+      "name" : "RxJava",
+      "offerValue" : 2.0
+    }, {
+      "name" : "AWS",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Jenkins",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Ansible",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Git",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Spring Framework",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Design patterns",
+      "offerValue" : 1.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "AWS experience", "Scala" ]
+    }, {
+      "name" : "Work Methodology",
+      "skills" : [ "Jira", "Sharepoint", "Jenkins", "Github", "Kanban", "GIT", "Unit Tests", "Integration Tests" ]
+    }, {
+      "name" : "Required experience",
+      "skills" : [ "2+ years of Java" ]
+    } ],
+    "perks" : [ {
+      "name" : "Training",
+      "description" : "Training budget"
+    }, {
+      "name" : "Leisure",
+      "description" : "Sport subscription"
+    }, {
+      "name" : "Leisure",
+      "description" : "Team Events"
+    }, {
+      "name" : "Medical",
+      "description" : "Private health care"
+    }, {
+      "name" : "Free",
+      "description" : "Beverages, coffee, snacks"
+    }, {
+      "name" : "Facilities",
+      "description" : "Shower room"
+    }, {
+      "name" : "In-house",
+      "description" : "Trainings and hack days"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-09-08T12:03:19.366Z",
+    "updatedAt" : "2016-09-08T12:03:19.366Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Virtuslav/tlo.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Virtuslav/ol.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "7hzuSj",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "57e8d683bfe523001fd0127f",
+    "slug" : "junior-frontend-developer-time-solutions",
+    "company" : "Time Solutions Sp. z o.o.",
+    "companyDescription" : "Time Solutions Sp. z o.o. is a startup creating IT tools to time tracking TimeCamp product. Our solutions have already benefited more than 1,000 companies from around the world (70% from the US). Due to the rapid growth, we are looking for the candidates for a job. Recently we have on board around 20 people in teams of 2-3 people.",
+    "jobDetails" : "",
+    "position" : "Junior Frontend Developer",
+    "salary" : {
+      "min" : 0.0,
+      "max" : 0.0,
+      "currency" : ""
+    },
+    "bounty" : {
+      "value" : 500.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Wrocław",
+      "cityNames" : [ "Wrocław" ],
+      "state" : "Lower Silesia",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "20/26",
+    "officeHours" : "Flexible",
+    "primarySkills" : [ {
+      "name" : "JavaScript",
+      "offerValue" : 3.0
+    }, {
+      "name" : "AngularJS",
+      "offerValue" : 2.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "Empathy for customers", "Ability to work with customer support" ]
+    }, {
+      "name" : "Required Experience",
+      "skills" : [ "1+ year of industry experience" ]
+    } ],
+    "perks" : [ {
+      "name" : "Professional Development",
+      "description" : "Training"
+    }, {
+      "name" : "Feel well at work",
+      "description" : "Relaxed Atmosphere"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-09-26T08:04:19.720Z",
+    "updatedAt" : "2016-10-19T13:51:59.955Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Timecamp/4.png",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Timecamp/Screen%20Shot%202016-07-12%20at%2014.25.11.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "gXPd8L",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "57fccd2abfe523001f55da1a",
+    "slug" : "frontend-javascript-developer-brand-24",
+    "company" : "Brand24",
+    "companyDescription" : "Brand24 is a powerful tool for real-time social media monitoring and analytics.\nDesigned to keep track of online conversations about your brand and products. Brand24 collects real-time social data from millions of sources.",
+    "jobDetails" : "You will rebuild and further develop the Brand24.com dashboard.",
+    "position" : "Frontend JavaScript Developer",
+    "salary" : {
+      "min" : 84000.0,
+      "max" : 120000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 1000.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "B2B/Contract",
+    "location" : {
+      "city" : "Wrocław",
+      "cityNames" : [ "Wrocław" ],
+      "state" : "Lower Silesia",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "Standard",
+    "officeHours" : "Flexible",
+    "primarySkills" : [ {
+      "name" : "JavaScript",
+      "offerValue" : 5.0
+    }, {
+      "name" : "Angular",
+      "offerValue" : 4.0
+    }, {
+      "name" : "React",
+      "offerValue" : 4.0
+    }, {
+      "name" : "CSS",
+      "offerValue" : 4.0
+    }, {
+      "name" : "PHP",
+      "offerValue" : 2.0
+    }, {
+      "name" : "SAAS / LESS",
+      "offerValue" : 2.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "GIT", "Bootstrap" ]
+    } ],
+    "perks" : [ {
+      "name" : "Included",
+      "description" : "Work with rockstars"
+    }, {
+      "name" : "Negotiable",
+      "description" : "All additional benefits"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-10-11T11:29:46.998Z",
+    "updatedAt" : "2016-10-25T14:19:19.006Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Brand24/Head.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Brand24/Logo.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "INTERMEDIATE"
+    }, {
+      "name" : "Polish",
+      "offerValue" : "PROFESSIONAL"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "V6AgLt",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "57fcdcc8bfe523001f55da1e",
+    "slug" : "wordpress-frontend-developer",
+    "company" : "Brand24",
+    "companyDescription" : "Brand24 is a powerful tool for real-time social media monitoring and analytics.\nDesigned to keep track of online conversations about your brand and products. Brand24 collects real-time social data from millions of sources.",
+    "jobDetails" : "You will be responsible for preparing new Brand24.com site on Wordpress and  join  Brand24 Frontend Team.",
+    "position" : "Wordpress & Frontend Developer",
+    "salary" : {
+      "min" : 48000.0,
+      "max" : 96000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 1000.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "B2B/Contract",
+    "location" : {
+      "city" : "Wrocław",
+      "cityNames" : [ "Wrocław" ],
+      "state" : "Lower Silesia",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "Standard",
+    "officeHours" : "Flexible",
+    "primarySkills" : [ {
+      "name" : "Wordpress",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Javascript",
+      "offerValue" : 3.0
+    }, {
+      "name" : "CSS",
+      "offerValue" : 3.0
+    }, {
+      "name" : "PHP",
+      "offerValue" : 3.0
+    }, {
+      "name" : "SASS / LESS",
+      "offerValue" : 2.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "GIT", "Web Security", "GULP", "Roots Framework" ]
+    } ],
+    "perks" : [ {
+      "name" : "Included",
+      "description" : "Work with rockstars"
+    }, {
+      "name" : "Negotiable",
+      "description" : "All additional benefits"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-10-11T12:36:24.378Z",
+    "updatedAt" : "2016-10-25T14:19:43.103Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Brand24/Head.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Brand24/Logo.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "INTERMEDIATE"
+    }, {
+      "name" : "Polish",
+      "offerValue" : "PROFESSIONAL"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "H9WRLU",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "57fe0843bfe523001f55da73",
+    "slug" : "junior-java-developer-blue-media",
+    "company" : "Blue Media",
+    "companyDescription" : "We supply electronic payment and sales support solutions - from utility payment automation to complex, bespoke electronic banking systems. Blue Media was founded in 1999 by two Tri-City students, who have been managing the company to date. They started out with one computer and created their first services out of their homes. Today it is the largest IT company in the Pomeranian and a leading Polish tech firm. We are from Sopot. Proximity of the sea and nature influences the way we work. We feel responsible for our environment. Both the natural environment and business environment. We respect nature and we strive to keep our service from influencing it.",
+    "jobDetails" : "You will support us in creating online payment systems for clients in the telecommunications and banking industries (SPBC, Kokos.pl, bm.pl). We work in small SCRUM teams using JIRA+Agile, GIT, Crucible.",
+    "position" : "Junior Java Developer",
+    "salary" : {
+      "min" : 36000.0,
+      "max" : 42000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 400.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Sopot",
+      "cityNames" : [ "Sopot" ],
+      "state" : "Pomeranian",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "Yes",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "According to experience",
+    "officeHours" : "7:00 a.m. - 6:00 p.m.",
+    "primarySkills" : [ {
+      "name" : "Java EE",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Enterprise JavaBeans",
+      "offerValue" : 2.0
+    }, {
+      "name" : "JPA",
+      "offerValue" : 2.0
+    }, {
+      "name" : "SQL",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Rest",
+      "offerValue" : 1.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ "SOAP", "Jboss/Wildfly", "JMS" ]
+    }, {
+      "name" : "Required experience",
+      "skills" : [ "0,5+ year of industry experience" ]
+    } ],
+    "perks" : [ {
+      "name" : "10 000 PLN",
+      "description" : "Relocation package"
+    }, {
+      "name" : "Expert seminars",
+      "description" : "Personal Development"
+    }, {
+      "name" : "Get a bonus 1PLN/kilometer",
+      "description" : "Ride a bike to work?"
+    }, {
+      "name" : "Subsidized",
+      "description" : "Private medical insurance"
+    }, {
+      "name" : "Pool, saunas, gym",
+      "description" : "Free access to a Sopot sports club"
+    }, {
+      "name" : "Subsidized Multisport",
+      "description" : "Gym membership"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-10-12T09:54:11.178Z",
+    "updatedAt" : "2016-10-12T09:54:11.178Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/BlueMedia/sopot.png",
+      "logoUrl" : "http://demo.co.pl/skillhunt/BlueMedia/BlueMediaLogo.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    }, {
+      "name" : "Polish",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "BRAm5z",
+    "duties" : [ {
+      "name" : "Build an automatic tests",
+      "value" : 40
+    }, {
+      "name" : "Evaluate functionality",
+      "value" : 10
+    }, {
+      "name" : "Integrate with SCM",
+      "value" : 20
+    }, {
+      "name" : "Generate test reports",
+      "value" : 10
+    }, {
+      "name" : "Create test strategies",
+      "value" : 20
+    } ],
+    "groupName" : "OFFER",
+    "id" : "57fe0f46bfe523001f55da7d",
+    "slug" : "softwar-development-engineert-in-test-amazon",
+    "company" : "Amazon Development Center Poland",
+    "companyDescription" : "Interested in Amazon Echo? Come work on it. We’re building the speech and language solutions behind Amazon Echo and other Amazon products and services. We’re working hard, having fun, making history; come join us!\n\nWe are looking for an individual with a passion for making development teams more efficient and productive. An individual that has the wisdom and know how to create an infrastructure to support a truly world-class product development team. This is an opportunity to build the automated test infrastructure of your dreams.",
+    "jobDetails" : "",
+    "position" : "Dev & Test Engineer",
+    "salary" : {
+      "min" : 0.0,
+      "max" : 0.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 2500.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Gdańsk",
+      "cityNames" : [ "Gdańsk" ],
+      "state" : "Pomeranian",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "Yes",
+    "workStartDate" : null,
+    "workweek" : "40 hours",
+    "holidays" : "26 days",
+    "officeHours" : "Flexible",
+    "primarySkills" : [ {
+      "name" : "Software testing",
+      "offerValue" : 5.0
+    }, {
+      "name" : "Unit test infrastructures",
+      "offerValue" : 3.0
+    }, {
+      "name" : "TDD",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Linux",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Utilizing virtual machines",
+      "offerValue" : 2.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Required experience",
+      "skills" : [ "2+ years experience in a test or development role as part of a product development organization which has delivered consumer oriented products" ]
+    }, {
+      "name" : "Required education",
+      "skills" : [ "Bachelor’s Degree in Computer Science or related technical field" ]
+    }, {
+      "name" : "Knowledge of one those programming languages",
+      "skills" : [ "C", "C++", "Java", "Python" ]
+    }, {
+      "name" : "Knowledge of",
+      "skills" : [ "Best practices for the full software development life cycle", "Professional software engineering practices", "Code reviews", "Coding standards", "Source control management", "Operations", "Build processes", "Industry standard test automation tools" ]
+    }, {
+      "name" : "Experience in",
+      "skills" : [ "Developing product test harnesses", "Other technical teams", "Communicating with users", "Instrumenting products to gather test results", "Automating the validating of modern user interfaces", "Management to collect requirements", "Automating messaging infrastructures" ]
+    } ],
+    "perks" : [ {
+      "name" : "Leisure",
+      "description" : "Sports card subscription"
+    }, {
+      "name" : "Medical",
+      "description" : "Private health care"
+    }, {
+      "name" : "Medical",
+      "description" : "Insurance"
+    }, {
+      "name" : "Business",
+      "description" : "Employee stocks"
+    }, {
+      "name" : "Training",
+      "description" : "Language Lessons"
+    }, {
+      "name" : "Relocation",
+      "description" : "Relocation package"
+    }, {
+      "name" : "Leisure",
+      "description" : "Fresh fruits in the office"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-10-12T10:24:06.540Z",
+    "updatedAt" : "2016-10-12T10:55:11.714Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Amazon/amazon.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Amazon/Amazon%20updated.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "PROFESSIONAL"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "ZZrzUz",
+    "duties" : [ ],
+    "groupName" : "OFFER",
+    "id" : "58076c97bfe523001f55dcf3",
+    "slug" : "middle-senior-backend-NET-developer-flex-group",
+    "company" : "Flex Group",
+    "companyDescription" : "We are a Poland based company, performing high-end development in Ukraine and Poland. Since 2014 our biggest goal have been to become the most reliable tech partner out there, no matter what country our clients call home. We have come to realize that development excellence is not the one thing that makes a successful partnership, but the ability to adapt and joint forces. The key to success is not working for our customers, but working with our customers.",
+    "jobDetails" : "We are looking for a Middle/Senior ASP.Net Developer to become a part of our team.\nYou will work in a multi-cultural environment with talented colleagues from Poland, Ukraine, USA and several European countries.",
+    "position" : "Backend .NET developer",
+    "salary" : {
+      "min" : 72000.0,
+      "max" : 144000.0,
+      "currency" : "PLN"
+    },
+    "bounty" : {
+      "value" : 800.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Cracow",
+      "cityNames" : [ "Cracow" ],
+      "state" : "Lesser Voivodeship",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "20/26",
+    "officeHours" : "07.00 - 23.00",
+    "primarySkills" : [ {
+      "name" : ".Net",
+      "offerValue" : 4.0
+    }, {
+      "name" : "MVC",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Scrum",
+      "offerValue" : 4.0
+    }, {
+      "name" : "Web development",
+      "offerValue" : 3.0
+    }, {
+      "name" : "MS SQL",
+      "offerValue" : 3.0
+    }, {
+      "name" : "Mercurial",
+      "offerValue" : 2.0
+    }, {
+      "name" : "SVN",
+      "offerValue" : 2.0
+    }, {
+      "name" : "JIRA",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Angular.JS",
+      "offerValue" : 2.0
+    }, {
+      "name" : "Entity Framework",
+      "offerValue" : 2.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Nice to have",
+      "skills" : [ ".NET 3.5/4.0", "ASP .NET", "C# (Web Services)", "My SQL", "Angular JS", "Web API" ]
+    }, {
+      "name" : "Required experience",
+      "skills" : [ "2 + years in software engineering as ASP .Net/MVC Developer" ]
+    }, {
+      "name" : "Good knowledge of",
+      "skills" : [ "Software development methodology", "Software lifecycle processes", "Windows Azure", "Unit Testing", "Linq", "Microsoft Web API" ]
+    } ],
+    "perks" : [ {
+      "name" : "Additional",
+      "description" : "Flexible Work Time"
+    }, {
+      "name" : "Additional",
+      "description" : "Certificate Compensations"
+    }, {
+      "name" : "Additional",
+      "description" : "Work from home"
+    }, {
+      "name" : "All official social guarantees",
+      "description" : "Vacation/ sickness/insurance - ZUS"
+    }, {
+      "name" : "Leisure",
+      "description" : "Corporate, teambuilding events"
+    }, {
+      "name" : "English courses",
+      "description" : "Compensation package"
+    }, {
+      "name" : "Multisport cards",
+      "description" : "50% compensation"
+    }, {
+      "name" : "Friendly staff",
+      "description" : "PM guaranteed"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-10-19T12:52:39.029Z",
+    "updatedAt" : "2016-10-19T13:14:50.214Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/FlexGroup/3.jpg",
+      "logoUrl" : "http://demo.co.pl/skillhunt/FlexGroup/lfg.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  }, {
+    "refCode" : "ueJNuq",
+    "duties" : [ {
+      "name" : "Create new functionality",
+      "value" : 50
+    }, {
+      "name" : "Improving existing solution",
+      "value" : 25
+    }, {
+      "name" : "Optimizing solution",
+      "value" : 25
+    } ],
+    "groupName" : "OFFER",
+    "id" : "58077d1dbfe523001f55dcff",
+    "slug" : "junior-php-developer-time-solutions",
+    "company" : "Time Solutions Sp. z o.o.",
+    "companyDescription" : "Time Solutions Sp. z o.o. is a startup creating IT tools to time tracking TimeCamp product. Our solutions have already benefited more than 1,000 companies from around the world (70% from the US). Due to the rapid growth, we are looking for the candidates for a job. Recently we have on board around 20 people in teams of 2-3 people.",
+    "jobDetails" : "",
+    "position" : "Junior PHP Developer",
+    "salary" : {
+      "min" : 34200.0,
+      "max" : 45000.0,
+      "currency" : ""
+    },
+    "bounty" : {
+      "value" : 450.0,
+      "currency" : "USD"
+    },
+    "employmentType" : "Full-time",
+    "location" : {
+      "city" : "Wrocław",
+      "cityNames" : [ "Wrocław" ],
+      "state" : "Lower Silesia",
+      "country" : "Poland"
+    },
+    "relocationFunded" : "No",
+    "workStartDate" : null,
+    "workweek" : "40",
+    "holidays" : "20/26",
+    "officeHours" : "Flexible",
+    "primarySkills" : [ {
+      "name" : "PHP",
+      "offerValue" : 2.0
+    }, {
+      "name" : "JavaScript",
+      "offerValue" : 1.0
+    }, {
+      "name" : "Code quality",
+      "offerValue" : 1.0
+    }, {
+      "name" : "Good estimation",
+      "offerValue" : 1.0
+    } ],
+    "secondarySkills" : [ {
+      "name" : "Required Experience",
+      "skills" : [ "0,5+ year of industry experience" ]
+    }, {
+      "name" : "Nice to have",
+      "skills" : [ "Involvement in Product Development", "Empathy for developers and customers", "Get things done", "Problem solving" ]
+    } ],
+    "perks" : [ {
+      "name" : "Professional Development",
+      "description" : "Training"
+    }, {
+      "name" : "Feel well at work",
+      "description" : "Relaxed Atmosphere"
+    }, {
+      "name" : "Twice a week",
+      "description" : "Free lunches"
+    } ],
+    "supplied" : [ ],
+    "createdAt" : "2016-10-19T14:03:09.474Z",
+    "updatedAt" : "2016-10-20T09:06:05.877Z",
+    "photo" : {
+      "coverUrl" : "http://demo.co.pl/skillhunt/Timecamp/4.png",
+      "logoUrl" : "http://demo.co.pl/skillhunt/Timecamp/Screen%20Shot%202016-07-12%20at%2014.25.11.png",
+      "wideCoverUrl" : null
+    },
+    "languages" : [ {
+      "name" : "English",
+      "offerValue" : "ADVANCED"
+    } ],
+    "links" : {
+      "user" : "5357699c9d33da5ee72b45ce",
+      "customer" : "5351090b8fe7f4e7b99d6e67"
+    },
+    "favourite" : null,
+    "closed" : false,
+    "personalReflink" : null
+  } ],
+  "meta" : {
+    "total" : 27
+  }
+}

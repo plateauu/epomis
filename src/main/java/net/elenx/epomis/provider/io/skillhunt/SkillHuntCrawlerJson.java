@@ -7,7 +7,9 @@ import net.elenx.epomis.provider.JobOfferProvider;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
+import java.util.Optional;
 import java.util.Set;
+import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 @Data
@@ -15,8 +17,9 @@ import java.util.stream.Collectors;
 public class SkillHuntCrawlerJson implements JobOfferProvider {
 
     private final RestTemplate restTemplate;
-    private final String URL = "https://api.skillhunt" +
-            ".io/api/v1/offers?filters=%7B%22closed%22:%7B%22$eq%22:false%7D%7D";
+    private final String URL = "https://api.skillhunt.io/api/v1/offers";
+    private final String baseURL = "https://app.skillhunt.io/jobs/view/";
+    private final Pattern javaPattern = Pattern.compile("\\b[Jj][Aa][Vv][Aa]\\b");
 
 
     @Override
@@ -26,21 +29,33 @@ public class SkillHuntCrawlerJson implements JobOfferProvider {
                 .getData()
                 .stream()
                 .map(this::extractOffer)
+                .filter(Optional::isPresent)
+                .map(Optional::get)
                 .collect(Collectors.toSet());
     }
 
-    private JobOffer extractOffer(SkillHuntJsonOffer jobOffer) {
-        String jobTitle = jobOffer.getPosition();
-        String company = jobOffer.getCompany();
-        String location = jobOffer.getLocation().getCity();
 
-        return JobOffer
-                .builder()
-                .company(company)
-                .providerType(ProviderType.SKILL_HUNT)
-                .location(location)
-                .title(jobTitle)
-                .build();
+    private Optional<JobOffer> extractOffer(SkillHuntJsonOffer jobOffer) {
+        String jobTitle = jobOffer.getPosition();
+
+        if (javaPattern.matcher(jobTitle).find()) {
+
+            String company = jobOffer.getCompany();
+            String location = jobOffer.getLocation().getCity();
+            String href =  baseURL.concat(jobOffer.getId());
+
+            return JobOffer
+                    .builder()
+                    .company(company)
+                    .providerType(ProviderType.SKILL_HUNT)
+                    .location(location)
+                    .href(href)
+                    .title(jobTitle)
+                    .buildOptional();
+
+        } else {
+            return Optional.empty();
+        }
     }
 
 }

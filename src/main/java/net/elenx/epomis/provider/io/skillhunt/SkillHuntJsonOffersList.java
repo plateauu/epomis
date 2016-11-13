@@ -1,13 +1,15 @@
 package net.elenx.epomis.provider.io.skillhunt;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 import java.util.List;
 
 @Data
-public class SkillHuntJsonOffersList {
+@JsonIgnoreProperties(ignoreUnknown = true)
+class SkillHuntJsonOffersList {
 
-    @JsonProperty("data")
+    @JsonProperty
     private List<SkillHuntJsonOffer> data;
 }

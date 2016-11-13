@@ -1,7 +1,6 @@
 package net.elenx.epomis.provider.io.skillhunt;
 
 import lombok.Data;
-import lombok.extern.java.Log;
 import net.elenx.connection2.ConnectionRequest;
 import net.elenx.connection2.ConnectionService2;
 import net.elenx.epomis.entity.JobOffer;
@@ -19,32 +18,35 @@ import java.util.stream.Collectors;
 
 @Data
 @Component
-@Log
 public class SkillHuntCrawler implements JobOfferProvider
 {
 
-    private static int counter = 0;
+    public final String CLASS_PATTERN = "div[class='offer-header padding-horizontal text-align-center cursor-pointer']";
+    private final String URL = "https://app.skillhunt.io/jobs";
+    public final String HEADER = "header";
+    public final String TITLE = "title";
+    public final String SPAN = "span";
+    public final String ABS_HREF = "abs:href";
+    public final String COMMA = ",";
+    public final String BR = "<br>";
     private final Pattern pattern = Pattern.compile("\\b[Jj][Aa][Vv][Aa]\\b");
+
     private final ConnectionService2 connectionService2;
 
     @Override
     public Set<JobOffer> offers()
     {
-        log.info("Start offers");
 
         ConnectionRequest connectionRequest = ConnectionRequest
             .builder()
-            .url("https://app.skillhunt.io/jobs")
+            .url(URL)
             .method(Connection.Method.GET)
             .build();
-
-
-        log.info("koniec testow");
 
         return connectionService2
             .submit(connectionRequest)
             .getDocument()
-            .select("div[class='offer-header padding-horizontal text-align-center cursor-pointer']")
+            .select(CLASS_PATTERN)
             .stream()
             .map(this::extractOffer)
             .filter(Optional::isPresent)
@@ -54,30 +56,26 @@ public class SkillHuntCrawler implements JobOfferProvider
     
     private Optional<JobOffer> extractOffer(Element jobOffer)
     {
+        String jobTitle = jobOffer.getElementsByTag(HEADER).attr(TITLE);
 
+        if (pattern.matcher(jobTitle).find()) {
 
-        String jobTitle = jobOffer.getElementsByTag("header").attr("title");
+            String[] companyWithLocation = jobOffer
+                    .getElementsByTag(SPAN)
+                    .get(0)
+                    .html()
+                    .split(BR);
 
-        if(!pattern.matcher(jobTitle).find())
-        {
+            return JobOffer
+                    .builder()
+                    .providerType(ProviderType.SKILL_HUNT)
+                    .title(jobTitle)
+                    .company(companyWithLocation[0])
+                    .location(Arrays.asList(companyWithLocation[1].split(COMMA)).get(0))
+                    .href(jobOffer.attr(ABS_HREF))
+                    .buildOptional();
+        } else {
             return Optional.empty();
         }
-
-        log.info("oferta numer " + counter++);
-
-        String[] companyWithLocation = jobOffer
-            .getElementsByTag("span")
-            .get(0)
-            .html()
-            .split("<br>");
-        
-        return JobOffer
-            .builder()
-            .providerType(ProviderType.SKILL_HUNT)
-            .title(jobTitle)
-            .company(companyWithLocation[0])
-            .location(Arrays.asList(companyWithLocation[1].split(",")).get(0))
-            .href(jobOffer.attr("abs:href"))
-            .buildOptional();
     }
 }

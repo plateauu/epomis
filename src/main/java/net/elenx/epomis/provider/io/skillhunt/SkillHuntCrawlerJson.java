@@ -16,10 +16,11 @@ import java.util.stream.Collectors;
 @Component
 public class SkillHuntCrawlerJson implements JobOfferProvider {
 
+    public static final String SLASH = "/";
     private final RestTemplate restTemplate;
     private final String URL = "https://api.skillhunt.io/api/v1/offers";
     private final String baseURL = "https://app.skillhunt.io/jobs/view/";
-    private final Pattern javaPattern = Pattern.compile("\\b[Jj][Aa][Vv][Aa]\\b");
+    private final Pattern javaPattern = Pattern.compile("\\bJAVA\\b", Pattern.CASE_INSENSITIVE);
 
 
     @Override
@@ -38,24 +39,24 @@ public class SkillHuntCrawlerJson implements JobOfferProvider {
     private Optional<JobOffer> extractOffer(SkillHuntJsonOffer jobOffer) {
         String jobTitle = jobOffer.getPosition();
 
-        if (javaPattern.matcher(jobTitle).find()) {
-
-            String company = jobOffer.getCompany();
-            String location = jobOffer.getLocation().getCity();
-            String href =  baseURL.concat(jobOffer.getId());
-
-            return JobOffer
-                    .builder()
-                    .company(company)
-                    .providerType(ProviderType.SKILL_HUNT)
-                    .location(location)
-                    .href(href)
-                    .title(jobTitle)
-                    .buildOptional();
-
-        } else {
+        if (!javaPattern.matcher(jobTitle).find() || jobOffer.getSlug() == null) {
             return Optional.empty();
         }
-    }
 
+        String company = jobOffer.getCompany();
+        String location = jobOffer.getLocation().getCity();
+        String href = new StringBuilder(baseURL).append(jobOffer.getId()).append(SLASH).append(jobOffer.getSlug()).toString();
+
+        return JobOffer
+                .builder()
+                .company(company)
+                .providerType(ProviderType.SKILL_HUNT)
+                .location(location)
+                .href(href)
+                .title(jobTitle)
+                .buildOptional();
+
+    }
 }
+
+

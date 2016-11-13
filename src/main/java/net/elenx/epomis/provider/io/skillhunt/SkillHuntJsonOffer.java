@@ -11,6 +11,7 @@ class SkillHuntJsonOffer {
     private String company;
     private String position;
     private String id;
+    private String slug;
     private SkillHuntJsonOfferLocation location;
 
     @Data

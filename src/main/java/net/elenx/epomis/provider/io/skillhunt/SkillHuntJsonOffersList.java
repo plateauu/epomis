@@ -8,8 +8,8 @@ import java.util.List;
 
 @Data
 @JsonIgnoreProperties(ignoreUnknown = true)
-class SkillHuntJsonOffersList {
-
+class SkillHuntJsonOffersList
+{
     @JsonProperty
     private List<SkillHuntJsonOffer> data;
 }

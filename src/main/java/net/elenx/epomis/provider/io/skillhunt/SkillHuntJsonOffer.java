@@ -5,22 +5,18 @@ import lombok.Data;
 
 @Data
 @JsonIgnoreProperties(ignoreUnknown = true)
-class SkillHuntJsonOffer {
-
-
+class SkillHuntJsonOffer
+{
     private String company;
     private String position;
     private String id;
     private String slug;
     private SkillHuntJsonOfferLocation location;
-
+    
     @Data
     @JsonIgnoreProperties(ignoreUnknown = true)
-    class SkillHuntJsonOfferLocation {
-
-            private String city;
-
+    class SkillHuntJsonOfferLocation
+    {
+        private String city;
     }
-
-
 }

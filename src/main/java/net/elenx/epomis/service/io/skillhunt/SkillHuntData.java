@@ -7,37 +7,38 @@ import lombok.Data;
 @Data
 @Builder
 @JsonIgnoreProperties(ignoreUnknown = true)
-class SkillHuntData {
-
+class SkillHuntData
+{
     private SkillHuntDataLinks links;
     private SkillHuntDataApplication application;
     private String type;
-
+    
     @Data
     @Builder
     @JsonIgnoreProperties(ignoreUnknown = true)
-    static class SkillHuntDataLinks {
+    static class SkillHuntDataLinks
+    {
         private String offer;
     }
-
+    
     @Data
     @Builder
     @JsonIgnoreProperties(ignoreUnknown = true)
-    static class SkillHuntDataApplication {
+    static class SkillHuntDataApplication
+    {
         private String workerEmail;
         private String workerName;
         private String message;
         private SkillHuntDataApplicationContact contact;
-
+        
         @Data
         @Builder
         @JsonIgnoreProperties(ignoreUnknown = true)
-        static class SkillHuntDataApplicationContact {
+        static class SkillHuntDataApplicationContact
+        {
             private String phone;
             private String country;
             private String city;
         }
     }
-
-
 }
